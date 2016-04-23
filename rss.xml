@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Tech Finds]]></title>
         <description><![CDATA[Tech Finds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tech-finds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 01:51:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 01:51:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tech-finds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[App Store - Apple Developer]]></title>
-            <description><![CDATA[<article><h1>App Store - Apple Developer</h1><p>Attract and engage over a billion App Store customers from around the world. Our useful tools and strategies are designed to make your app business successful.</p><img src="https://devimages.apple.com.edgekey.net/app-store/index/images/submissions-hero.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>App Store - Apple Developer</h1><p>Attract and engage over a billion App Store customers from around the world. Our useful tools and strategies are designed to make your app business successful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4929ac1ffc4fe03c44db4ce8d90ad59686a9a63b.jpg"></article>]]></description>
             <link>https://developer.apple.com/app-store/?utm_campaign=iOS%2BDev%2BWeekly&amp;utm_medium=web&amp;utm_source=iOS_Dev_Weekly_Issue_247</link>
             <guid isPermaLink="false">ce8e244b-f73d-4356-987e-3f1f0af200fa</guid>
             <pubDate>Sat, 23 Apr 2016 01:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WWDC 2016 - Apple Developer]]></title>
+            <description><![CDATA[<article><h1>WWDC 2016 - Apple Developer</h1><p>The Apple Worldwide Developers Conference (WWDC) 2016 takes place June 13-17 in San Francisco with an in-depth look at the latest in iOS, OS X, watchOS, and tvOS.</p><img src="https://developer.apple.com/wwdc/images/wwdc16-og.jpg"></article>]]></description>
+            <link>https://developer.apple.com/wwdc/</link>
+            <guid isPermaLink="false">d159aa5c-d5ef-4920-8c2e-b61529d8855a</guid>
+            <pubDate>Sat, 23 Apr 2016 01:50:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
