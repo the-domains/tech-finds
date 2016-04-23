@@ -1,0 +1,28 @@
+name: Tech Finds
+favicon: null
+layout_spectrum: 0.10125926975160837
+typography_spectrum: 0.878115645609796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4015114097855985
+  lightness: 0.36802542698569596
+  saturation: 0.3573467640671879
+  rhythmicContrast: 0.04207945172674954
+purpose: []
